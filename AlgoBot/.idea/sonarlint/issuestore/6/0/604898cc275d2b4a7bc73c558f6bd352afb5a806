@@ -1,0 +1,37 @@
+
+a
+java:S1192Ì"JDefine a constant instead of duplicating this literal "graph.png" 4 times.(…ºÙ÷
+8
+java:S1643¼"Use a StringBuilder instead.(Üö²ªûÿÿÿÿ
+i	java:S116#"TRename this field "BFSsearch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÒğ­
+t	java:S116%"ZRename this field "BFSshortestPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‡Ç‘şÿÿÿÿ
+3
+java:S2119~"Save and re-use this "Random".(¼İÅf
+4
+java:S2119›"Save and re-use this "Random".(¼İÅf
+O	java:S106¹"9Replace this use of System.out or System.err by a logger.( ˆõ
+4
+java:S2119É"Save and re-use this "Random".(¼İÅf
+4
+java:S2119ô"Save and re-use this "Random".(¼İÅf
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(òĞê‰
+L
+java:S1874Ê"5Remove this use of "createMessage"; it is deprecated.(´–î£
+H
+java:S1602Ë",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ
+L
+java:S1874Ó"5Remove this use of "createMessage"; it is deprecated.(´–î£
+H
+java:S1602Ô",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ
+L
+java:S1874æ"5Remove this use of "createMessage"; it is deprecated.(´–î£
+H
+java:S1602ç",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ
+L
+java:S1874ï"5Remove this use of "createMessage"; it is deprecated.(´–î£
+H
+java:S1602ğ",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ
+3
+java:S6205õ"Remove this redundant block.(üØô
+N
+java:S11445"3Remove this unused private "createCommands" method.(ÁÀÈØúÿÿÿÿ

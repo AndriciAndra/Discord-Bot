@@ -277,7 +277,7 @@ public class BotApplication implements Idraw {
     }
 
     public BotApplication() {
-        DiscordClient client = DiscordClient.create("OTc1NzYzMDQ5NTI2OTkyOTU4.GTjRSg.Qu1X2i5jOl53pHPE0NxWB8YOWzxkhXLgq0ewH4");
+        DiscordClient client = DiscordClient.create("token");
 
         //createCommands(); //only for the first run of the project
 
